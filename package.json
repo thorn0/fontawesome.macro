@@ -1,5 +1,5 @@
 {
-  "name": "fontawesome.macro",
+  "name": "@thorn0/fontawesome.macro",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,5 +12,12 @@
     "semi": false,
     "trailingComma": "none",
     "arrowParens": "avoid"
-  }
+  },
+  "contributors": [
+    "https://github.com/javascripter",
+    "https://github.com/thorn0"
+  ],
+  "keywords": [
+    "babel-plugin-macros"
+  ]
 }
